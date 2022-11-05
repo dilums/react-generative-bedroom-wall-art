@@ -1,9 +1,9 @@
 {
-    "title":"",
-    "desc":"",
+    "title":"React Generative Bedroom Wall Art",
+    "desc":"Using React to generate bedroom wall art",
     "url":"",
-    "ogImg":"",
+    "ogImg":"https://res.cloudinary.com/ds574fco0/image/upload/v1667637552/github/react-wall-art-1_d6sswl.jpg",
     "author":"Dilum Sanjaya",
     "twitter":"@DilumSanjaya",
-    "keywords":""
+    "keywords":"React.js, Next.js, UI, Generative Art"
 }

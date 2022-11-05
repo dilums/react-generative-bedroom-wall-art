@@ -1,4 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two&display=swap');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
+
+body{
+  margin: 0;
+  padding: 0;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  height: 100vh;
+  overflow: hidden;
+  background:#F4F4F4;
+
+}
+
+
+svg{
+  width: 100vw;
+  height: 100vh;
+  background: #F4F4F4;
+}
+
+.btn-refresh{
+
+
+position: fixed;
+right: 16px;
+top: 16px;
+padding: 12px 16px;
+
+background: #FFFFFF;
+box-shadow: inset -2px -2px 6px rgba(108, 104, 104, 0.25);
+border-radius: 100px;
+color: rgb(240, 157, 215);
+cursor: pointer;
+border: none;
+font-family: 'Lobster Two', cursive;
+font-size: 18px;
+}
+.btn-refresh:hover{
+  box-shadow: inset -1px -1px 6px rgba(108, 104, 104, 0.25);
+  color: rgb(235, 139, 206);
+}
